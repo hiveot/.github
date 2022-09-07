@@ -7,7 +7,7 @@ The Hive consists of a Hub to which IoT devices, Services and Consumers connect.
 For security reasons the IoT devices and services remain hidden from the outside world. 
 All access is routed via the Hub which implements stringent security measures.
 
-The Hive is a 'Capabilities Based' solution to enhance security. It is implemented using '[capnproto'(https://capnproto.org/)'. 
+The Hive is a 'Capabilities Based' solution to even further enhance security. It is implemented using '[capnproto'(https://capnproto.org/)'. 
 
 The status of the project is in-development. Currently the work focuses on a switch from http based interfaces to Capabilities based interfaces using capnproto (go-capnproto).
 
